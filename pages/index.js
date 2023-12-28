@@ -1,28 +1,36 @@
+// Import necessary components and modules
 import Head from 'next/head'
 import Header from '@components/Header'
 import Footer from '@components/Footer'
 
+// Define the Home component
 export default function Home() {
   return (
     <div className="container">
+      {/* Head section for metadata */}
       <Head>
         <title>5330Slut</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
+      {/* Main section */}
       <main>
+        {/* Header component with a title */}
         <Header title="나희양, 이상한거 그만보세요." />
-        <body>
-          <br>
-          주무실 시간이에요.
-          </br>
 
+        {/* Body section */}
+        <body>
+          {/* Text content */}
+          
+
+          {/* Additional text and link */}
+          <p>
+            주무실 시간이에요. <a href="/some-page">https://commons.wikimedia.org/wiki/File:Very_sleepy_cat.jpg</a>.
+          </p>
         </body>
-        <p className="description">
-          Get started by editing <code>pages/index.js</code>
-        </p>
       </main>
 
+      {/* Footer component */}
       <Footer />
     </div>
   )
