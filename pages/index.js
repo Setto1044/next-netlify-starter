@@ -9,7 +9,7 @@ export default function Home() {
     <div className="container">
       {/* Head section for metadata */}
       <Head>
-        <title>5330Slut</title>
+        <title>Hi Nabong</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
