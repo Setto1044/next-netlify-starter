@@ -25,7 +25,7 @@ export default function Home() {
 
           {/* Additional text and link */}
           <p>
-            주무실 시간이에요. <a href="/some-page">https://commons.wikimedia.org/wiki/File:Very_sleepy_cat.jpg</a>.
+            주무실 시간이에요. <a href="/some-page">https://www.pinatafarm.com/memegenerator/e4980cdd-9b92-4c4c-b77b-183374a9b236</a>.
           </p>
         </body>
       </main>
