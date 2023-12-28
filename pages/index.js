@@ -11,7 +11,10 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="아직도 혼자서 위로하시나요?" />
+        <Header title="나희양, 이상한거 그만보세요." />
+        <body>
+          헤헷
+        </body>
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
