@@ -25,13 +25,14 @@ export default function Home() {
 
           {/* Additional text and link */}
           <p>
-            주무실 시간이에요. <a href="https://www.google.com/search?q=sleepy+cat&sca_esv=594242284&hl=ko&tbm=isch&source=lnms&sa=X&ved=2ahUKEwiIlPXEs7KDAxWMdN4KHcl1BOIQ_AUoAXoECAMQAw&biw=1536&bih=703&dpr=1.25">여기를 클릭</a>.
+            주무실 시간이에요. 
+            <a href="https://www.google.com/search?q=sleepy+cat&sca_esv=594242284&hl=ko&tbm=isch&source=lnms&sa=X&ved=2ahUKEwiIlPXEs7KDAxWMdN4KHcl1BOIQ_AUoAXoECAMQAw&biw=1536&bih=703&dpr=1.25">고양이를 보려면 여기를 클릭</a>.
           </p>
         </body>
       </main>
 
       {/* Footer component */}
-      <Footer />
+      
     </div>
   )
 }
