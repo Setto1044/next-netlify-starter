@@ -13,7 +13,10 @@ export default function Home() {
       <main>
         <Header title="나희양, 이상한거 그만보세요." />
         <body>
-          헤헷
+          <br>
+          주무실 시간이에요.
+          </br>
+
         </body>
         <p className="description">
           Get started by editing <code>pages/index.js</code>
