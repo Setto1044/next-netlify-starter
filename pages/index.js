@@ -32,7 +32,9 @@ export default function Home() {
       </main>
 
       {/* Footer component */}
-      
+      <Footer>
+        Developed by 석진
+      </Footer>
     </div>
   )
 }
