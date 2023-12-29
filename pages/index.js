@@ -25,7 +25,7 @@ export default function Home() {
 
           {/* Additional text and link */}
           <p>
-            그는 놀라워! 
+            그는 더워! 
             <a href="https://www.youtube.com/channel/UCq2MgAt0viLmlipjJ6sF-aw">더 알아보기</a>.
           </p>
         </body>
