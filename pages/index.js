@@ -21,7 +21,7 @@ export default function Home() {
         {/* Body section */}
         <body>
           {/* Text content */}
-          <img src="images/200x200.png" alt="My Image" width="441" height="356"  />
+          <img src="zade.png" alt="My Image" width="441" height="356"  />
 
           {/* Additional text and link */}
           <p>
